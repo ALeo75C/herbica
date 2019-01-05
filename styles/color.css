@@ -1,0 +1,15 @@
+body {
+  background-color: #fff;
+}
+header {
+  background-color: #8AC926;
+}
+.line {
+  background-color: #8AC926;
+}
+footer {
+  background-color: #8AC926;
+}
+article blockquote, article ul {
+  border-left-color: #8AC926;
+}
