@@ -79,7 +79,7 @@ article p + p {
   margin-top: 10px;
 }
 article blockquote, article ul {
-  width: 900px;
+  /* width: 900px; */
   margin: 40px auto;
   padding-left: 10px;
 
@@ -112,7 +112,6 @@ article h2 {
   height: 3px;
 
   border-radius: 50px;
-  background-color: #C4C4C4;
 }
 .amenities {
   display: flex;
@@ -130,6 +129,7 @@ article h2 {
 .card img {
   width: 100px;
   height: 100px;
+  margin: 0;
   margin-bottom: 20px;
 }
 article h3 {
@@ -142,8 +142,6 @@ article h3 {
 
 footer {
   width: 100vw;
-
-  background-color: #C4C4C4;
 }
 .fot {
   margin-left: 100px;
